@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1621584808995,44587,HTTP Request,200,,OCR KTP V5 Validation 1-4,text,true,,3924,664,5,5,https://domain.com/app/v5/ktp_validation,44584,0,696
+1621584808607,60959,HTTP Request,200,,OCR KTP V5 Validation 1-2,text,true,,3935,664,4,4,https://domain.com/app/v5/ktp_validation,60959,0,1091
+1621584808565,73501,HTTP Request,200,,OCR KTP V5 Validation 1-1,text,true,,4014,775,3,3,https://domain.com/app/v5/ktp_validation,73501,0,1129
+1621584808797,91670,HTTP Request,200,,OCR KTP V5 Validation 1-3,text,true,,3959,664,2,2,https://domain.com/app/v5/ktp_validation,91670,0,893
+1621584809194,100570,HTTP Request,200,,OCR KTP V5 Validation 1-5,text,true,,3989,665,1,1,https://domain.com/app/v5/ktp_validation,100570,0,495

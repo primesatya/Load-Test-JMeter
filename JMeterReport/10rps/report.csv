@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1621585550624,69451,HTTP Request,200,,OCR KTP V5 Validation 1-1,text,true,,4014,775,10,10,https://domain.com/app/v5/ktp_validation,69448,0,862
+1621585550838,91130,HTTP Request,200,,OCR KTP V5 Validation 1-5,text,true,,3989,665,9,9,https://domain.com/app/v5/ktp_validation,91130,0,647
+1621585550647,107820,HTTP Request,200,,OCR KTP V5 Validation 1-3,text,true,,3959,664,8,8,https://domain.com/app/v5/ktp_validation,107820,0,832
+1621585551198,122869,HTTP Request,200,,OCR KTP V5 Validation 1-9,text,true,,3947,665,7,7,https://domain.com/app/v5/ktp_validation,122869,0,277
+1621585551295,138974,HTTP Request,200,,OCR KTP V5 Validation 1-10,text,true,,3984,666,6,6,https://domain.com/app/v5/ktp_validation,138974,0,192
+1621585551015,154752,HTTP Request,200,,OCR KTP V5 Validation 1-7,text,true,,3957,664,5,5,https://domain.com/app/v5/ktp_validation,154752,0,459
+1621585550933,168136,HTTP Request,200,,OCR KTP V5 Validation 1-6,text,true,,4128,664,4,4,https://domain.com/app/v5/ktp_validation,168135,0,543
+1621585550622,177745,HTTP Request,200,,OCR KTP V5 Validation 1-2,text,true,,3935,664,3,3,https://domain.com/app/v5/ktp_validation,177745,0,859
+1621585550742,189824,HTTP Request,200,,OCR KTP V5 Validation 1-4,text,true,,3924,664,2,2,https://domain.com/app/v5/ktp_validation,189824,0,732
+1621585551111,200379,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-8,text,false,,436,664,1,1,https://domain.com/app/v5/ktp_validation,200379,0,374

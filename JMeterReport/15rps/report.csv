@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1621588204468,78611,HTTP Request,200,,OCR KTP V5 Validation 1-1,text,true,,4014,775,15,15,https://domain.com/app/v5/ktp_validation,78608,0,1172
+1621588204973,108394,HTTP Request,200,,OCR KTP V5 Validation 1-12,text,true,,3971,666,14,14,https://domain.com/app/v5/ktp_validation,108394,0,681
+1621588204468,123399,HTTP Request,200,,OCR KTP V5 Validation 1-2,text,true,,3935,664,13,13,https://domain.com/app/v5/ktp_validation,123399,0,1172
+1621588204677,142592,HTTP Request,200,,OCR KTP V5 Validation 1-7,text,true,,3957,664,12,12,https://domain.com/app/v5/ktp_validation,142592,0,983
+1621588204491,161475,HTTP Request,200,,OCR KTP V5 Validation 1-4,text,true,,3924,664,11,11,https://domain.com/app/v5/ktp_validation,161475,0,1165
+1621588204788,187378,HTTP Request,200,,OCR KTP V5 Validation 1-9,text,true,,3947,665,10,10,https://domain.com/app/v5/ktp_validation,187378,0,858
+1621588204737,200230,HTTP Request,200,,OCR KTP V5 Validation 1-8,text,true,,4046,664,9,9,https://domain.com/app/v5/ktp_validation,200230,0,907
+1621588205029,200620,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-13,text,false,,436,665,8,8,https://domain.com/app/v5/ktp_validation,200620,0,616
+1621588205089,200563,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-14,text,false,,436,666,8,8,https://domain.com/app/v5/ktp_validation,200563,0,560
+1621588204856,200799,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-10,text,false,,436,666,7,7,https://domain.com/app/v5/ktp_validation,200799,0,791
+1621588205149,200509,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-15,text,false,,436,666,5,5,https://domain.com/app/v5/ktp_validation,200509,0,503
+1621588204464,201195,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-3,text,false,,436,664,5,5,https://domain.com/app/v5/ktp_validation,201195,0,1184
+1621588204912,200749,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-11,text,false,,436,666,3,3,https://domain.com/app/v5/ktp_validation,200749,0,746
+1621588204620,201048,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-6,text,false,,436,664,2,2,https://domain.com/app/v5/ktp_validation,201048,0,1043
+1621588204555,201113,HTTP Request,504,Gateway Time-out,OCR KTP V5 Validation 1-5,text,false,,436,665,2,2,https://domain.com/app/v5/ktp_validation,201113,0,1110
